@@ -1,0 +1,54 @@
+    
+body {background-color: #8db1ab;
+      font-family: 'Yellowtail', cursive;
+      }
+
+hr {border-style:none;
+      border-top-style:dotted ;
+      border-width:1%;
+      background-color: white;
+      width: 1%;
+      height: 1px;
+       }
+
+img {height: 200px;
+    border-radius: 45%;
+       }
+
+h1 {
+color: #383e56;
+font-size: 65px;
+padding-left: 9px;
+}
+
+h3 {
+color: #383e56;
+font-size: 35px;
+}
+
+/* Styling for the links begins here */
+
+a:hover {
+    cursor: pointer;
+  }
+
+  a {
+  color: #383e56;
+  padding: 1px;
+  position: relative;
+ font-size: 22px;
+ font-weight: 900;
+  font-family: 'Yellowtail', cursive;
+}
+
+a:hover {
+  cursor: pointer;
+  color: azure;
+}
+
+a:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+/* This is the end of link styles */
